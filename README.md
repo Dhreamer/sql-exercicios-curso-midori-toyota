@@ -28,14 +28,14 @@ Optei por não compartilhar esse arquivo porque ele faz parte do material oficia
 
 | Seção | Conteúdo principal | PDF |
 |---|---|---|
-| 3 | SELECT, DISTINCT, WHERE, ORDER BY e LIMIT | [Comandos básicos](./SQL_Exercicios_Secao_3_Comandos_Basicos.pdf) |
-| 4 | Operadores aritméticos, de comparação e lógicos | [Operadores](./SQL_Exercicios_Secao_4_Operadores.pdf) |
-| 5 | COUNT, SUM, AVG, MIN, MAX, GROUP BY e HAVING | [Funções agregadas](./SQL_Exercicios_Secao_5_Funcoes_Agregadas.pdf) |
-| 6 | INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN | [JOINs](./SQL_Exercicios_Secao_6_Joins.pdf) |
-| 7 | UNION, UNION ALL e compatibilidade entre consultas | [UNIONs](./SQL_Exercicios_Secao_7_Unions.pdf) |
-| 8 | Subqueries, EXISTS, tabelas derivadas e CTEs (consultas temporárias com `WITH`) | [Subqueries](./SQL_Exercicios_Secao_8_Subqueries_Revisado.pdf) |
-| 9 | Conversão de tipos, CASE, COALESCE, textos e datas | [Tratamento de dados](./SQL_Exercicios_Secao_9_Tratamento_de_Dados.pdf) |
-| 10 | CREATE, INSERT, UPDATE, DELETE, ALTER e DROP | [Manipulação de tabelas](./SQL_Exercicios_Secao_10_Manipulacao_de_Tabelas.pdf) |
+| 3 | SELECT, DISTINCT, WHERE, ORDER BY e LIMIT | [Comandos básicos](<./PDF's dos Exercícios/SQL Exercícios Seção 3 Comandos Básicos.pdf>) |
+| 4 | Operadores aritméticos, de comparação e lógicos | [Operadores](<./PDF's dos Exercícios/SQL Exercícios Seção 4 Operadores.pdf>) |
+| 5 | COUNT, SUM, AVG, MIN, MAX, GROUP BY e HAVING | [Funções agregadas](<./PDF's dos Exercícios/SQL Exercícios Seção 5 Funções Agregadas.pdf>) |
+| 6 | INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN | [JOINs](<./PDF's dos Exercícios/SQL Exercícios Seção 6 Joins.pdf>) |
+| 7 | UNION, UNION ALL e compatibilidade entre consultas | [UNIONs](<./PDF's dos Exercícios/SQL Exercícios Seção 7 Unions.pdf>) |
+| 8 | Subqueries, EXISTS, tabelas derivadas e CTEs (consultas temporárias com `WITH`) | [Subqueries](<./PDF's dos Exercícios/SQL Exercícios Seção 8 Subqueries.pdf>) |
+| 9 | Conversão de tipos, CASE, COALESCE, textos e datas | [Tratamento de dados](<./PDF's dos Exercícios/SQL Exercícios Seção 9 Tratamento de Dados.pdf>) |
+| 10 | CREATE, INSERT, UPDATE, DELETE, ALTER e DROP | [Manipulação de tabelas](<./PDF's dos Exercícios/SQL Exercícios Seção 10 Manipulação de Tabelas.pdf>) |
 
 ## Ambiente utilizado
 
